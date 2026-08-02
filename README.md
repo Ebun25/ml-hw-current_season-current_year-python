@@ -18,5 +18,3 @@ def user_input():
         print(-1)
 
 
-# Call the function
-user_input()
